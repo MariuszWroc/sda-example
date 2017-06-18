@@ -1,0 +1,14 @@
+Generowanie kluczy:
+
+1) komenda w gitbashu: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+2) "Enter a file in which to save the key" - wybieramy nazwę pliku (np. 'key')
+
+3) Enter passphrase (empty for no passphrase): [Type a passphrase]
+Enter same passphrase again: [Type passphrase again]
+To są dodatkowe zabezpieczenie hasłem. Olewamy je wciskają dwa razy Enter.
+
+4) Klucze są już wygenerowane!
+Klucze (publiczny i prywatny) znajdują się w: <katalog_domowy>/.ssh
+
+5) Klucz publiczny wysyłacie mnie.
