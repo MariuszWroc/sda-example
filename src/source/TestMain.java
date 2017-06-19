@@ -4,7 +4,7 @@ public class TestMain {
 
 	public static void main(String[] args) {
 		System.out.println("Works");
-		System.out.println("My own Branch dmiedzik");b
+		System.out.println("My own Branch dmiedzik");a
 	}
 
 }
